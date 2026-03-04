@@ -6,9 +6,6 @@ A real-time interactive Voice Orb component built during the Figma Makeathon.
 
 ## Demo Video
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/ef5f89a371454993ab092360612a8a84" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
-If your Markdown renderer blocks iframes, watch here:
 https://www.loom.com/share/ef5f89a371454993ab092360612a8a84
 
 ## What This Includes
