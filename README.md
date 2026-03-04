@@ -30,6 +30,10 @@ npm run build
 npm run preview
 ```
 
+## Live Demo
+
+[View Live Demo](https://ashish-soni08.github.io/aura/)
+
 ## Component Usage
 
 The component is in `src/app/components/VoiceOrb.tsx`.
