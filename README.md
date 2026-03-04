@@ -34,6 +34,11 @@ npm run preview
 
 [View Live Demo](https://ashish-soni08.github.io/aura/)
 
+## Integration Guide
+
+- Step-by-step setup: `docs/voice-orb-integration-guide.md`
+- Copy-ready starter zip: `starter-kit/voice-orb-starter-kit.zip`
+
 ## Component Usage
 
 The component is in `src/app/components/VoiceOrb.tsx`.
