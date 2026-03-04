@@ -70,21 +70,6 @@ export default function Demo() {
 - `config`: `Record<OrbState, OrbStateConfig>`
 - `size`: `'hero' | 'float' | 'mini'`
 
-## Usability Check
-
-The current codebase is usable for others with minimal setup:
-
-- Entrypoint is correctly wired (`index.html` -> `src/main.tsx` -> `App`)
-- `VoiceOrb` is already exported and typed
-- Fallback rendering exists for non-WebGL environments
-- Run scripts now include `dev`, `build`, and `preview` for easier onboarding
-
-Main thing users need is this import path and required props:
-
-- `src/app/components/VoiceOrb.tsx`
-- `src/app/types.ts`
-- `src/app/constants.ts`
-
 ## Tech Stack
 
 - React 18
